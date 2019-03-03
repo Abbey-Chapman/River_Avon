@@ -67,7 +67,9 @@ Performing much the same analysis as was performed on the Stratford-upon-Avon he
 
 *The December 2012 flooding event in Warwick.*
 
-The difference could also be explained by the choice of threshold height.
+### Square Lake
+
+The difference could also be explained by the choice of threshold height. For example, if the threshold height for 
 
 ![Warwick-FEV_ht_Graph](Warwick-FEV_ht_Graph.png)
 
