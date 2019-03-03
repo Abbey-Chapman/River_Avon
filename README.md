@@ -22,9 +22,11 @@ The graph above clearly emphasizes two flooding events, one at the end of Novemb
 
 *The December 2012 flooding event.*
 
-Hence it can be verified that, indeed, the November event resulted in a larger FEV. This FEV is particularly large (when compared with other FEV's calculated within the bounds of this project, more information on the other floods analyzed as part of this project can be found on the project homepage, listed above) not because of a large height or flow (indeed this river has a comparitively small threshold height and flow rate) but because this flooding event was prolonged over several days, whereas the majority of the other floods analyzed lasted less than a day. The FEV of the November event can be helpfully visualized by a "square lake", a lake of depth 2m with equal side-lengths, which are, in this case, 3958m each. This square lake, therefore, represents the same volume of the FEV; 21.36Mm^3.
-
+Hence it can be verified that, indeed, the November event resulted in a larger FEV. This FEV is particularly large (when compared with other FEV's calculated within the bounds of this project, more information on the other floods analyzed as part of this project can be found on the project homepage, listed above) not because of a large height or flow (indeed this river has a comparitively small threshold height and flow rate) but because this flooding event was prolonged over several days, whereas the majority of the other floods analyzed lasted less than a day. 
+### Square Lake
+The FEV of the November event can be helpfully visualized by a 'square lake', a lake of depth 2m with equal side-lengths, which are, in this case, 3958m each. This square lake, therefore, represents the same volume of the FEV; 21.36Mm^3.
 ![Stratford-Square_Lake_Graph](Stratford-Square_Lake_Graph.png)
+*Graph depicting the 'square lake' of depth 2m that holds the same volume of flood water as discharged during the flooding event of November 2012, Stratford-upon-Avon.*
 
 ![Stratford-FEV_ht_Graph](Stratford-FEV_ht_Graph.png)
 ## Warwick
