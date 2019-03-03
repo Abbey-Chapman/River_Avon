@@ -32,7 +32,7 @@ The FEV of the November event can be helpfully visualized by a 'square lake', a 
 It is important to note, especially in this case where the flood being analyzed produces such a high FEV, that the FEV is highly dependent on the threshold height chosen. Although we can be relatively condfident in the threshold height used in the above anlysis (1.2m) as it is provided explicitly by the Environment Agency, the graph below depicts how the FEV can reduce drastically for higher threshold heights, leading to a square lake with shorter sides.
 ![Stratford-FEV_ht_Graph](Stratford-FEV_ht_Graph.png)
 
-*Graph displaying relationaship between different threshold heights and their respective FEV's*
+*Graph displaying relationship between different threshold heights and their respective FEV's.*
 ## Warwick
 ![Warwick-Castle](Warwick-Castle.png) ![Warwick-Castle-Flooded](Warwick-Castle-Flooded.png)
 
