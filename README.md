@@ -6,6 +6,8 @@
 
 ![Stratford-Quadrant_Graph_2](Stratford-Quadrant_Graph_2.png)
 
+![Stratford-FEV_ht_Graph](Stratford-FEV_ht_Graph.png)
+
 ![Warwick-Long_Time_Graph](Warwick-Long_Time_Graph.png)
 
 ![Warwick-Quadrant_Graph](Warwick-Quadrant_Graph.png)
