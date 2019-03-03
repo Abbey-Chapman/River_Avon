@@ -7,7 +7,12 @@ Stratford-upon-Avon was chosen as a town of interest, in regards to the investig
 
 According to https://riverlevels.uk/river-avon-stratford-upon-avon-stratford, the most recent high recorded at the Stratford-upon-Avon gauging station was 1.89m on Monday the 26th of November 2012 and so it is this specific flood that will be investigated.
 
+##Flooding Data
 ![Stratford-Long_Time_Graph](Stratford-Long_Time_Graph.png)
+
+*Graph depicting the Avon's height during the months of November and December 2012, using data provided by the Environment Agency for the Cox's Yard guaging station located within Stratford-upon-Avon.*
+
+
 
 ![Stratford-Quadrant_Graph](Stratford-Quadrant_Graph.png)
 
