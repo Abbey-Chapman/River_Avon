@@ -1,4 +1,5 @@
 # The River Avon
+## Stratford-upon-Avon
 
 ![Stratford-Long_Time_Graph](Stratford-Long_Time_Graph.png)
 
@@ -9,7 +10,7 @@
 ![Stratford-Square_Lake_Graph](Stratford-Square_Lake_Graph.png)
 
 ![Stratford-FEV_ht_Graph](Stratford-FEV_ht_Graph.png)
-
+## Warwick
 ![Warwick-Long_Time_Graph](Warwick-Long_Time_Graph.png)
 
 ![Warwick-Quadrant_Graph](Warwick-Quadrant_Graph.png)
