@@ -39,7 +39,7 @@ It is important to note, especially in this case where the flood being analyzed 
 
 ![Stratford-FEV_ht_Graph](Stratford-FEV_ht_Graph.png)
 
-*Graph displaying relationship between different threshold heights and their respective FEV's.*
+*Graph displaying the relationship between different threshold heights and their respective FEV's.*
 
 ## Warwick
 
@@ -69,8 +69,14 @@ Performing much the same analysis as was performed on the Stratford-upon-Avon he
 
 ### Square Lake
 
-The difference could also be explained by the choice of threshold height. For example, if the threshold height for 
+The difference could also be explained by the choice of threshold height. For example, if the threshold height was chosen as 2.2m for the Warwick flooding event then, as can be seen from the FEV against hT graph for Warwick below, then the FEV's will be more on par.
 
 ![Warwick-FEV_ht_Graph](Warwick-FEV_ht_Graph.png)
 
+*Graph displaying the relationship between different threshold heights and their respective FEV's*
+
+Simlarly to the Square lake for the Stratford-upon-Avon flood, the FEV for Warwick can be helpfully visualised by a square lake of depth 2m. The side length of 
+
 ![Warwick-Square_Lake_Graph](Warwick-Square_Lake_Graph.png)
+
+
