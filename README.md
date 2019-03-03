@@ -75,8 +75,8 @@ The difference could also be explained by the choice of threshold height. For ex
 
 *Graph displaying the relationship between different threshold heights and their respective FEV's*
 
-Simlarly to the Square lake for the Stratford-upon-Avon flood, the FEV for Warwick can be helpfully visualised by a square lake of depth 2m. The side length of 
+Simlarly to the Square lake for the Stratford-upon-Avon flood, the FEV for Warwick can be helpfully visualised by a square lake of depth 2m. The smaller side length of 3868m is reflective of the smaller FEV.
 
 ![Warwick-Square_Lake_Graph](Warwick-Square_Lake_Graph.png)
 
-
+*Graph depicting the 'square lake' of depth 2m that holds the same volume of flood water as discharged during the flooding event of November 2012, Warwick.*
