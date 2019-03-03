@@ -14,11 +14,13 @@ According to https://riverlevels.uk/river-avon-stratford-upon-avon-stratford, th
 
 The graph above clearly emphasizes two flooding events, one at the end of November (as expected from River Levels UK) but also another one at the end of December, most likely assisted by the ground already being waterlogged from the earlier November flood. To be thorough, it is now appropriate to find the FEV of each respective flooding event as opposed to simply hypothesising that because the November event has a higher maximum river height, a larger FEV is implied also. Both of the following graphs are plotted using the threshold height (the height at which the river began to flood) of 1.2 meters, as provided by the Environment Agency.
 
-
-
 ![Stratford-Quadrant_Graph](Stratford-Quadrant_Graph.png)
 
+*The November 2012 flooding event.*
+
 ![Stratford-Quadrant_Graph_2](Stratford-Quadrant_Graph_2.png)
+
+*The December 2012 flooding event.*
 
 ![Stratford-Square_Lake_Graph](Stratford-Square_Lake_Graph.png)
 
