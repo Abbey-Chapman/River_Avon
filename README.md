@@ -13,6 +13,8 @@ Stratford-upon-Avon was chosen as a town of interest, in regards to the investig
 
 ![Stratford-FEV_ht_Graph](Stratford-FEV_ht_Graph.png)
 ## Warwick
+![Warwick-Castle](Warwick-Castle.png) ![Warwick-Castle-Flooded](Warwick-Castle-Flooded.png)
+
 ![Warwick-Long_Time_Graph](Warwick-Long_Time_Graph.png)
 
 ![Warwick-Quadrant_Graph](Warwick-Quadrant_Graph.png)
