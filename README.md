@@ -34,7 +34,10 @@ It is important to note, especially in this case where the flood being analyzed 
 
 *Graph displaying relationship between different threshold heights and their respective FEV's.*
 ## Warwick
+Having researched the November 2012 in Stratford-upon-Avon, it would now be of interest to investigate the same flood but further upstream the River Avon, namely the city of Warwick.
 ![Warwick-Castle](Warwick-Castle.png) ![Warwick-Castle-Flooded](Warwick-Castle-Flooded.png)
+
+*The famous Warwick castle, unflooded and during the November 2012 floods. The sources are https://www.flickr.com/photos/ell-r-brown/27107990951/in/photostream/ and https://www.coventrytelegraph.net/news/local-news/flood-alerts-still-place-warwickshire-10661416 respectively.*
 
 ![Warwick-Long_Time_Graph](Warwick-Long_Time_Graph.png)
 
