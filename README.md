@@ -12,7 +12,7 @@ According to https://riverlevels.uk/river-avon-stratford-upon-avon-stratford, th
 
 *Graph depicting the Avon's height during the months of November and December 2012, using data provided by the Environment Agency for the Cox's Yard guaging station located within Stratford-upon-Avon.*
 
-The graph above clearly emphasizes two flooding events, one at the end of November (as expected from River Levels UK) but also another one at the end of December, most likely assisted by the ground already being waterlogged from the earlier November flood.
+The graph above clearly emphasizes two flooding events, one at the end of November (as expected from River Levels UK) but also another one at the end of December, most likely assisted by the ground already being waterlogged from the earlier November flood. To be thorough, it is now appropriate to find the FEV of each respective flooding event as opposed to simply hypothesising that because the November event has a higher maximum river height, a larger FEV is implied also. Both of the following graphs are plotted using the threshold height (the height at which the river began to flood) of 1.2 meters, as provided by the Environment Agency.
 
 
 
