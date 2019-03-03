@@ -12,7 +12,7 @@ According to https://riverlevels.uk/river-avon-stratford-upon-avon-stratford, th
 
 *Graph depicting the Avon's height during the months of November and December 2012, using data provided by the Environment Agency for the Cox's Yard guaging station located within Stratford-upon-Avon.*
 
-The graph above clearly emphasizes two flooding events, one at the end of November (as expected from River Levels UK) but also another one at the end of December, most likely assisted by the ground already being waterlogged from the earlier November flood. To be thorough, it is now appropriate to find the FEV (as defined on the project homepage; https://github.com/Rivers-Project-2018/Group-Project) of each respective flooding event as opposed to simply hypothesising that because the November event has a higher maximum river height, a larger FEV is implied also. Both of the following graphs are plotted using the threshold height (the height at which the river began to flood) of 1.2 meters, as provided by the Environment Agency.
+The graph above clearly emphasizes two flooding events, one at the end of November (as expected from River Levels UK) but also another one at the end of December, most likely assisted by the ground already being waterlogged from the earlier November flood. To be thorough, it is now appropriate to find the FEV (as defined on the project homepage; https://github.com/Rivers-Project-2018/Group-Project) of each respective flooding event as opposed to simply hypothesising that because the November event has a higher maximum river height, a larger FEV is implied also. Both of the following graphs are plotted using the threshold height (the height at which the river began to flood) of 1.2 meters, as well as using the rating information for the Cox's Yard gauging station (providing the relationship between height and flow rate (Q)) as provided by the Environment Agency. Evidence of all email exchanges with the Environment Agency in regards to the analysis of the River Avon can be found in this repository under the name '---'.
 
 ![Stratford-Quadrant_Graph](Stratford-Quadrant_Graph.png)
 
@@ -26,9 +26,13 @@ Hence it can be verified that, indeed, the November event resulted in a larger F
 ### Square Lake
 The FEV of the November event can be helpfully visualized by a 'square lake', a lake of depth 2m with equal side-lengths, which are, in this case, 3958m each. This square lake, therefore, represents the same volume of the FEV; 21.36Mm^3.
 ![Stratford-Square_Lake_Graph](Stratford-Square_Lake_Graph.png)
+
 *Graph depicting the 'square lake' of depth 2m that holds the same volume of flood water as discharged during the flooding event of November 2012, Stratford-upon-Avon.*
 
+It is important to note, especially in this case where the flood being analyzed produces such a high FEV, that the FEV is highly dependent of the threshold height chosen. Although we can be relatively condfident in the threshold height used in the above anlysis (1.2m) as it is provided explicitly by the Environment Agency, the graph below depicts how the FEV can reduce drastically for higher threshold heights, leading to a square lake with shorter sides.
 ![Stratford-FEV_ht_Graph](Stratford-FEV_ht_Graph.png)
+
+*Graph displaying relationaship between different threshold heights and their respective FEV's*
 ## Warwick
 ![Warwick-Castle](Warwick-Castle.png) ![Warwick-Castle-Flooded](Warwick-Castle-Flooded.png)
 
