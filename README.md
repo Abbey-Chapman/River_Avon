@@ -1,4 +1,4 @@
-# The River Avon at Stratford-upon-Avon and Warwick
+# The River Avon
 
 ![Stratford-Long_Time_Graph](Stratford-Long_Time_Graph.png)
 
