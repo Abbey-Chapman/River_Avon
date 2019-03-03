@@ -12,6 +12,8 @@ According to https://riverlevels.uk/river-avon-stratford-upon-avon-stratford, th
 
 *Graph depicting the Avon's height during the months of November and December 2012, using data provided by the Environment Agency for the Cox's Yard guaging station located within Stratford-upon-Avon.*
 
+The graph above clearly emphasizes two flooding events, one at the end of November (as expected from River Levels UK) but also another one at the end of December, most likely assisted by the ground already being waterlogged from the earlier November flood.
+
 
 
 ![Stratford-Quadrant_Graph](Stratford-Quadrant_Graph.png)
