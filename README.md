@@ -22,6 +22,8 @@ The graph above clearly emphasizes two flooding events, one at the end of Novemb
 
 *The December 2012 flooding event.*
 
+Hence it can be verified that, indeed, the November event resulted in a larger FEV. This FEV is particularly large (when compared with other FEV's calculated within the bounds of this project (more information on the other floods analyzed as part of this project can be found in 
+
 ![Stratford-Square_Lake_Graph](Stratford-Square_Lake_Graph.png)
 
 ![Stratford-FEV_ht_Graph](Stratford-FEV_ht_Graph.png)
