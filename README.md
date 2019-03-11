@@ -18,11 +18,11 @@ According to https://riverlevels.uk/river-avon-stratford-upon-avon-stratford, th
 
 The graph above clearly emphasizes two flooding events, one at the end of November (as expected from River Levels UK) but also another one at the end of December, most likely assisted by the ground already being waterlogged from the earlier November flood. To be thorough, it is now appropriate to find the FEV (as defined on the project homepage; https://github.com/Rivers-Project-2018/Group-Project) of each respective flooding event as opposed to simply hypothesising that because the November event has a higher maximum river height, a larger FEV is implied also. Both of the following graphs are plotted using the threshold height (the height at which the river began to flood) of 1.2 meters, as well as using the rating information for the Cox's Yard gauging station (providing the relationship between height and flow rate (Q)) as provided by the Environment Agency. Evidence of all email exchanges with the Environment Agency in regards to the analysis of the River Avon can be found in this repository under the name '---'.
 
-![Stratford-Quadrant_Graph](Stratford-Quadrant_Graph.png)
+![Stratford-Quadrant_Graph_3](Stratford-Quadrant_Graph_3.png)
 
 *The November 2012 flooding event in Stratford-upon-Avon.*
 
-![Stratford-Quadrant_Graph_2](Stratford-Quadrant_Graph_2.png)
+![Stratford-Quadrant_Graph_4](Stratford-Quadrant_Graph_4.png)
 
 *The December 2012 flooding event in Stratford-upon-Avon.*
 
@@ -59,11 +59,11 @@ The graph below shows that, as expected, the River Avon follows much the same be
 
 Performing much the same analysis as was performed on the Stratford-upon-Avon height data, it can be seen that, again, the FEV from the November 2012 flood is larger than that of the December 2012. The threshold height was again provided by the Environment Agency to be 2.3m. The fact that the Warwick FEV is smaller than the Stratford-upon-Avon FEV could be due to a number of factors, such as the possible inaccuracy of the height data for Stratford-upon-Avon. If the data for both locations is taken to be accurate then this difference could be explained by significant surface water, ground water and rain water flowing into the River after it flows through Warwick but before it reaches Stratford. This could be indicative of the need for flood mitigation not only before Warwick but also in between Warwick and Stratford.
 
-![Warwick-Quadrant_Graph](Warwick-Quadrant_Graph.png)
+![Warwick-Quadrant_Graph_3](Warwick-Quadrant_Graph_3.png)
 
 *The November 2012 flooding event in Warwick.*
 
-![Warwick-Quadrant_Graph_2](Warwick-Quadrant_Graph_2.png)
+![Warwick-Quadrant_Graph_4](Warwick-Quadrant_Graph_4.png)
 
 *The December 2012 flooding event in Warwick.*
 
