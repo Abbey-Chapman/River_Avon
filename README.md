@@ -69,7 +69,7 @@ Performing much the same analysis as was performed on the Stratford-upon-Avon he
 
 ### Square Lake
 
-The difference could also be explained by the choice of threshold height. For example, if the threshold height was chosen as 2.2m for the Warwick flooding event then, as can be seen from the FEV against hT graph for Warwick below, then the FEV's will be more on par.
+The difference could also be explained by the choice of threshold height. For example, if the threshold height was chosen as 2.5m for the Warwick flooding event then, as can be seen from the FEV against hT graph for Warwick below, the FEV's will be more on par.
 
 ![Warwick-FEV_ht_Graph](Warwick-FEV_ht_Graph.png)
 
