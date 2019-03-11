@@ -26,7 +26,7 @@ The graph above clearly emphasizes two flooding events, one at the end of Novemb
 
 *The December 2012 flooding event in Stratford-upon-Avon.*
 
-Hence it can be verified that, indeed, the November event resulted in a larger FEV. This FEV is particularly large (when compared with other FEV's calculated within the bounds of this project, more information on the other floods analyzed as part of this project can be found on the project homepage, listed above) not because of a large height or flow (indeed this river has a comparitively small threshold height and flow rate) but because this flooding event was prolonged over several days, whereas the majority of the other floods analyzed lasted less than a day. 
+Hence it can be verified that, indeed, the November event resulted in a larger FEV. The fact that the flooding event was prolonged over several days, whereas the majority of the other floods analyzed lasted less than a day, means the FEV is relatively large. 
 
 ### Square Lake
 
@@ -35,7 +35,7 @@ The FEV of the November event can be helpfully visualized by a 'square lake', a 
 
 *Graph depicting the 'square lake' of depth 2m that holds the same volume of flood water as discharged during the flooding event of November 2012, Stratford-upon-Avon.*
 
-It is important to note, especially in this case where the flood being analyzed produces such a high FEV, that the FEV is highly dependent on the threshold height chosen. Although we can be relatively condfident in the threshold height used in the above anlysis (1.2m) as it is provided explicitly by the Environment Agency, the graph below depicts how the FEV can reduce drastically for higher threshold heights, leading to a square lake with shorter sides.
+It is important to note, especially in this case where the flood being analyzed produces a large FEV, that the FEV is highly dependent on the threshold height chosen. The graph below depicts how the FEV can be reduced, or indeed enlarged, drastically for higher, or lower, threshold heights, leading to a square lake with shorter sides.
 
 ![Stratford-FEV_ht_Graph](Stratford-FEV_ht_Graph.png)
 
@@ -57,7 +57,7 @@ The graph below shows that, as expected, the River Avon follows much the same be
 
 *Graph depicting the various river heights for the gauging station at Warwick for the months of November and December 2012.*
 
-Performing much the same analysis as was performed on the Stratford-upon-Avon height data, it can be seen that, again, the FEV from the November 2012 flood is larger than that of the December 2012. The threshold height was again provided by the Environment Agency to be 2.3m. The fact that the Warwick FEV is smaller than the Stratford-upon-Avon FEV could be due to a number of factors, such as the possible inaccuracy of the height data for Stratford-upon-Avon. If the data for both locations is taken to be accurate then this difference could be explained by significant surface water, ground water and rain water flowing into the River after it flows through Warwick but before it reaches Stratford. This could be indicative of the need for flood mitigation not only before Warwick but also in between Warwick and Stratford.
+Performing much the same analysis as was performed on the Stratford-upon-Avon height data, it can be seen that, again, the FEV from the November 2012 flood is larger than that of the December 2012. The threshold height provided by the Environment Agency was 2.3m but, as stated above, this estimate tends to be low. As the threshold height used for Stratford-upon-Avon is 20% larger than the given threshold by the Environment Agency, a reasonable estimation for the threshold height would be to grow the provided threshold for Warwick by 20%  also. This reulsts in a threshold height of 2.75m. The fact that the Warwick FEV is smaller than the Stratford-upon-Avon FEV could be due to a number of factors, such as the possible inaccuracy of the height data for Stratford-upon-Avon. If the data for both locations is taken to be accurate then this difference could be explained by significant surface water, ground water and rain water flowing into the River Avon after it flows through Warwick but before it reaches Stratford. This could be indicative of the need for flood mitigation not only before Warwick but also in between Warwick and Stratford.
 
 ![Warwick-Quadrant_Graph_3](Warwick-Quadrant_Graph_3.png)
 
