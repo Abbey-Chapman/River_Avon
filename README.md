@@ -47,7 +47,7 @@ Having researched the November 2012 in Stratford-upon-Avon, it would now be of i
 
 ![Warwick-Castle](Warwick-Castle.png) ![Warwick-Castle-Flooded](Warwick-Castle-Flooded.png)
 
-*The famous Warwick castle, unflooded and during the November 2012 floods. The sources are https://www.flickr.com/photos/ell-r-brown/27107990951/in/photostream/ and https://www.coventrytelegraph.net/news/local-news/flood-alerts-still-place-warwickshire-10661416 respectively.*
+*The famous Warwick castle, unflooded and when flooded. The sources are https://www.flickr.com/photos/ell-r-brown/27107990951/in/photostream/ and https://www.coventrytelegraph.net/news/local-news/flood-alerts-still-place-warwickshire-10661416 respectively.*
 
 ### Flooding Data
 
