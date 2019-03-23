@@ -31,7 +31,7 @@ Hence it can be verified that, indeed, the November event resulted in a larger F
 ### Square Lake
 
 The FEV of the November event can be helpfully visualized by a 'square lake', a lake of depth 2m with equal side-lengths, which are, in this case, 2246m each. This square lake, therefore, represents the same volume of the FEV; 10.09Mm^3.
-![Stratford-Square_Lake](Stratford-Square_Lake_Graph.png)
+![Stratford-Square_Lake](Stratford-Square_Lake2.png)
 
 *Graph depicting the 'square lake' of depth 2m that holds the same volume of flood water as discharged during the flooding event of November 2012, Stratford-upon-Avon.*
 
