@@ -22,7 +22,7 @@ The graph above clearly emphasizes two flooding events, one at the end of Novemb
 
 *The November 2012 flooding event in Stratford-upon-Avon.*
 
-![Stratford-Quadrant_Graph_4](Stratford-Quadrant_Graph_2.png)
+![Stratford-Quadrant_Graph_4](Stratford-Quadrant_Graph2.png)
 
 *The December 2012 flooding event in Stratford-upon-Avon.*
 
