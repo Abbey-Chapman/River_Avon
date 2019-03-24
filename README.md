@@ -82,4 +82,5 @@ Simlarly to the Square lake for the Stratford-upon-Avon flood, the FEV for Warwi
 There are five proposed flood mitigation measuers designed to protect warwick from flooding. These are: the installment of pumps in Stanford reservoir to allow for the draw down of the reservoir ahead of predicted heavy rainfall, the widening of the spillway attached to the reservoir, the construction of temporary flood barriers and the building of two brooks in Stratford-upon-Avon and Warwick. An overview of the cost of each measure and how much they reduce the FEV by can be found in the figure below.
 
 ![squarelake](Stratford-Square_Lake2.png)
+
 *Cost efficacy of proposed flood mitigation measures in Stratford-upon-Avon and how much they reduce the 2m deep square lake equivalent of the FEV*
